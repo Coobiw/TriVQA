@@ -6,6 +6,8 @@ TriVQA means "Triple-Dimensional AIGC Video Quality Assessment".
 
 
 
-[View the PDF](poster.pdf)
+[View the Poster](poster.pdf)
+
+![](poster.pdf)
 
 *Code is scheduled for release.*
